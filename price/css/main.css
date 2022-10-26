@@ -1,0 +1,17 @@
+.superior{
+    padding-inline: 2.4rem;
+    padding-block: 3.2rem;
+    border-radius: 0.5rem;
+    background-color: white;
+}
+.superior p:nth-of-type(1){
+    font-weight: 700;
+    line-height: 2.6rem;
+    color: var(--Bright-Yellow);
+    margin-bottom: 1rem;
+}
+.superior p:nth-of-type(2){
+    line-height: 1.5rem;
+    color: var(--grayish-blue);
+    font-weight: 0.7rem;
+}
